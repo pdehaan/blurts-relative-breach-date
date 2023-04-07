@@ -1,0 +1,17 @@
+{
+  "name": "blurts-relative-breach-date",
+  "version": "1.0.0",
+  "description": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index > README.md",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Peter deHaan <peter@deseloper.com>",
+  "license": "MPL-2.0",
+  "dependencies": {
+    "luxon": "^3.3.0"
+  }
+}
